@@ -1,0 +1,8 @@
+﻿  BoardPosition.cpp
+  OthelloBoard.cpp
+  OthelloView.cpp
+  Generating Code...
+c:\users\ryan\desktop\project2\othelloview.cpp(37): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+c:\users\ryan\desktop\project2\othelloboard.h(108): warning C4715: 'OthelloBoard::GetPlayerAtPosition': not all control paths return a value
+c:\users\ryan\desktop\project2\othelloboard.h(108): warning C4715: 'OthelloBoard::GetPlayerAtPosition': not all control paths return a value
+  ObjectOrientedOthello.vcxproj -> C:\Users\Ryan\source\repos\ObjectOrientedOthello\Debug\ObjectOrientedOthello.exe
